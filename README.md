@@ -4,7 +4,7 @@ Tugas Python 5: OOP serta dokumentasi lengkap tentang class `MarketingDataETL` b
 Repository ini berisi tugas Python 5: OOP Object Oriented Programming (Pemrograman Berbasis Objek) yang dikerjakan oleh Afriani & team kelompok 14.
 
 ## Deskripsi Tugas
-Tugas ini meminta untuk membuat class `MarketingDataETL` yang bertanggung jawab untuk ekstraksi, pembersihan, transformasi, dan penyimpanan data dari sebuah file CSV.
+Tugas ini meminta untuk membuat class `MarketingDataETL` dengan melakukan fungsi untuk ekstraksi, pembersihan, transformasi, dan penyimpanan data dari sebuah file CSV.
 
 ## Langkah-langkah yang Dilakukan
 - Membuat repository baru di GitHub.
